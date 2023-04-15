@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "930243000277",
+    "project_id": "authfg-cbdb2",
+    "storage_bucket": "authfg-cbdb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930243000277:android:0753d4a4e5de86c84daf5c",
+        "android_client_info": {
+          "package_name": "com.authfg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930243000277-5076e4gihupnjhf61b94udv6l1b5j0s3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.authfg",
+            "certificate_hash": "858555e683c7dc344d26c7dcd4a2989bc2ef0bef"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6CrFZBatWeUQIk5dk_WFFgn4gsc9IS04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930243000277-ib9q2defl8uiign2pnmsqsq3212ql3u2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "930243000277-hi39923bieh5r4jbtpnkjj4g1b5aljk2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.socialapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
